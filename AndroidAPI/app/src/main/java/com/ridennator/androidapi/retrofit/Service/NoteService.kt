@@ -1,6 +1,6 @@
 package com.ridennator.androidapi.retrofit.Service
 
-import com.ridennator.androidapi.Model.Note
+import com.ridennator.androidapi.model.Note
 import retrofit2.Call
 import retrofit2.http.GET
 

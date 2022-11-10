@@ -1,4 +1,4 @@
-package com.ridennator.androidapi.Model
+package com.ridennator.androidapi.model
 
 /**
  * class to represent the data stucture,
