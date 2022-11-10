@@ -1,9 +1,11 @@
 package com.ridennator.androidapi.model
 
+import com.google.gson.annotations.SerializedName
+
 /**
  * class to represent the data stucture,
  * obtained from API
  */
 class Note(
-    val title:String,
-    val description:String)
+    @SerializedName("title") val title:String,
+    @SerializedName("description") val description:String)
